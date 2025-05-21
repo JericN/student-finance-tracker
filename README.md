@@ -18,7 +18,7 @@ Built with [SvelteKit], [Node.js], and [firebase], and powered by [pnpm] as the 
 
 - Narte, Jeric (lead)
 - Jafri, Ali Mahmood  
-- Javier, Timothy  
+- Javier, Timothy 
 - Santos, Vincent Marcel
   
 ## ⚙️ Using the Codebase
@@ -63,11 +63,6 @@ pnpm prev:ios
 pnpm fmt
 # Fix code format issues
 pnpm fmt:fix
-# Check individual Lints
-pnpm lint:html
-pnpm lint:css
-pnpm lint:js
-pnpm lint:svelte
 # Check all Lints and format
 pnpm check
 ```
